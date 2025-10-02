@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    overflow-x: hidden;
+}
 header{
     display: flex;
     justify-content: space-between;
@@ -81,4 +84,18 @@ header{
     border: 2px solid brown;
     background-color: brown;
     color: white;
+}
+
+@media only screen and ( max-width:500px){
+    header{
+        flex-direction: column;
+    }
+    .skull{
+        width: 110%;
+    }
+
+    .les{
+        width: 0%;
+        background-color: white;
+    }
 }
