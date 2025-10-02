@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.skull{
+    margin-left: 40px;
+}
+.er{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.der{
+    width: 200px;
+    height: 200px;
+}
+
+.her{
+    width: 200px;
+    height: 200px;
+}
+.ber{
+    width: 200px;
+    height: 200px;
+}
+.bull{
+    color: brown;
+}
+.dar{
+    width: 200px;
+    height: 200px;
+}
+.har{
+    width: 200px;
+    height: 200px;
+}
+.bar{
+    width: 200px;
+    height: 200px;
+}
+.dor{
+    width: 200px;
+    height: 200px;
+}
+.hor{
+    width: 200px;
+    height: 200px;
+}
+.bor{
+    width: 200px;
+    height: 200px;
+}
+.how{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.les{
+    margin-right: 500px;
+    margin-bottom: 500px;
+    background-color: pink;
+    padding: 20px;
+}
+.she{
+    padding: 5px;
+    border-radius: 2px solid white;
+}
+
+.he{
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 85px;
+    border-radius: 20px;
+    border: 2px solid brown;
+    background-color: brown;
+    color: white;
+}
